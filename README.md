@@ -1,7 +1,7 @@
 # COVID-19 Chest X-Ray Data Analysis
 
 [![N|Solid](https://i.ibb.co/wQkHfSR/ezgif-com-crop.gif)](https://github.com/devindatt/covid19-chest_xrays-analysis/blob/master/ezgif.com-crop.gif)
-
+https://github.com/devindatt/covid19-chest_xrays-analysis/blob/master/ezgif.com-crop.gif
 
 ## Disclaimer: 
 ##### *This analysis is only performed on a SMALL dataset (50 images) and shouldn't be considered true academic research of any kind to draw on any conclusions of its validity. Further research needs to be performed by trained medical practitioner on a much larger dataset (+10,000s) to see a true correlation.  Having said that there does seems to be an interesting relationship that could help medical staff for quick diagnosis.*
@@ -98,6 +98,9 @@ C - Shows on the validation testing High accuracy (90%), sensitivity (80%), and 
 [![N|Solid](https://i.ibb.co/wCLLLJk/plot3.png)](https://i.ibb.co/wCLLLJk/plot3.png)
 
 The green circle shows how the validation results are closely tracking the training results as increasing the epochs, which is what we want to see if there is something the model able to see some type of correlation.
+
+My ethical conclusion here is,  you don’t need a degree in medicine to make an impact in the medical field — deep learning practitioners working closely with doctors and medical professionals can solve complex problems, save lives, and make the world a better place.
+
 
 #
 #
