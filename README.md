@@ -1,6 +1,7 @@
 # COVID-19 Chest X-Ray Data Analysis
 
 [![N|Solid](https://i.ibb.co/wQkHfSR/ezgif-com-crop.gif)](https://github.com/devindatt/covid19-chest_xrays-analysis/blob/master/ezgif.com-crop.gif)
+#
 https://github.com/devindatt/covid19-chest_xrays-analysis/blob/master/ezgif.com-crop.gif
 
 ## Disclaimer: 
