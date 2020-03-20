@@ -92,9 +92,9 @@ Initial model settings, which you can change
 
 [![N|Solid](https://i.ibb.co/55MpSWj/result-sshot1.png)](https://i.ibb.co/55MpSWj/result-sshot1.png)
 #
-A - Shows the Training Loss is low (~28%) and high accuracy (95%)
-B - Shows the models Precision is High (83%), and model to the ground truth Recall (89%), F1 score (~90%)
-C - Shows on the validation testing High accuracy (90%), sensitivity (80%), and specificity (100%)
+- A - Shows the Training Loss is low (~28%) and high accuracy (95%)
+- B - Shows the models Precision is High (83%), and model to the ground truth Recall (89%), F1 score (~90%)
+- C - Shows on the validation testing High accuracy (90%), sensitivity (80%), and specificity (100%)
 #
 [![N|Solid](https://i.ibb.co/wCLLLJk/plot3.png)](https://i.ibb.co/wCLLLJk/plot3.png)
 
