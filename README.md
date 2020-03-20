@@ -1,9 +1,6 @@
 # COVID-19 Chest X-Ray Data Analysis
 
-[![N|Solid](https://healthcare-in-europe.com/media/story_section_image/4670/image-01-marti-beide.jpg)](https://healthcare-in-europe.com/media/story_section_image/4670/image-01-marti-beide.jpg)
-
-
-
+[![N|Solid](https://i.ibb.co/wQkHfSR/ezgif-com-crop.gif)](https://github.com/devindatt/covid19-chest_xrays-analysis/blob/master/ezgif.com-crop.gif)
 
 
 ## Disclaimer: 
