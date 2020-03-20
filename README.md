@@ -52,19 +52,25 @@ https://github.com/devindatt/covid19-chest_xrays-analysis/blob/master/ezgif.com-
 Assuming you download and keep the default settings, the dataset should be in the 'dataset' folder and the model file is in the main directory, the following command should allow you to run the training model as the only mandatory parameter is the location of the dataset folder.
 
 ```sh
-$ python3 train_covid19.py --dataset dataset 
+$ python3 train_covid19_main.py --dataset dataset 
 ```
 #
 The above command will output the resulting train/validation plots in a file with a default name 'plot.png'. If you want to change this name you can simply use the 'plot' parameter and use any name, such as:
 ```sh
-$ python3 train_covid19.py --dataset dataset --plot plot_filename.png 
+$ python3 train_covid19_main.py --dataset dataset --plot plot_filename.png 
 ```
 #
 #
 You can also use short hand parameters and even use your own model instead of the default 'covid19' model:
-```sh
-$ python3 train_covid19.py -d dataset -m covid19.model -p plot_filename.png 
-```
+
+| Paramenters | Description | Defaults|
+| ------ | ------ |-----
+| -d, --dataset | path to input dataset (required)  | dataset
+|-p, --plot | path to output loss/accuracy plot | plot.png
+| -m, --model | path to model file to use for training | covid19.model
+| -lr, --learning | models learning rate parameter used in training | 0.001
+| -e, --epoch | number of the epochs the model to train on | 25
+|-bs, --batchsize | batch size parameter used during the training | 8
 
 
 ## Analysis Step:
